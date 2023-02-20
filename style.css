@@ -40,6 +40,18 @@ body {
     text-decoration: none;
     padding: 10px 15px;
 }
+
+.content h2, .content h3 {
+    font-size: 150%;
+    margin: 10px 0;
+}
+
+.content p{
+    color: #666;
+    line-height: 25px;
+    letter-spacing: 1px;
+
+}
 .container 
 {
     max-width: 1200px;
@@ -49,7 +61,7 @@ body {
 
 .main 
 {
-    background-image: url('https://i.pinimg.com/564x/bd/22/b6/bd22b631a24803fca5fab4fecb609a52.jpg');
+    background-image: url('https://i.pinimg.com/564x/a5/d6/8d/a5d68da947361e661b339311c6a1f1cb.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
